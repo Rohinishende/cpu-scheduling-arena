@@ -1,0 +1,6 @@
+{
+  "name": "CPU Scheduling Arena & Schematic Portal",
+  "description": "Interactive Operating Systems CPU Scheduling web portal and CAD architecture schematic blueprint comparing FCFS, SJF, Round Robin, and Priority algorithms with hardware block diagrams, live signal tracing, 4-way benchmark arena, arcade dispatcher game, and mathematical reference manual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
